@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eden\\Documents\\Unity\\Fantums\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA55E79-A70C-F460-49E9-31C7080B7F3D}|Assembly-CSharp.csproj|C:\\Users\\eden\\Documents\\Unity\\Fantums\\assets\\scripts\\enemy\\enemyhitbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA55E79-A70C-F460-49E9-31C7080B7F3D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyhitbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA55E79-A70C-F460-49E9-31C7080B7F3D}|Assembly-CSharp.csproj|C:\\Users\\eden\\Documents\\Unity\\Fantums\\assets\\scripts\\environment\\doortransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA55E79-A70C-F460-49E9-31C7080B7F3D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\doortransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA55E79-A70C-F460-49E9-31C7080B7F3D}|Assembly-CSharp.csproj|c:\\users\\eden\\documents\\unity\\fantums\\assets\\scripts\\enemy\\enemypatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA55E79-A70C-F460-49E9-31C7080B7F3D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemypatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA55E79-A70C-F460-49E9-31C7080B7F3D}|Assembly-CSharp.csproj|C:\\Users\\eden\\Documents\\Unity\\Fantums\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA55E79-A70C-F460-49E9-31C7080B7F3D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eden\\Documents\\Unity\\Fantums\\Assets\\PlayerInputActions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PlayerInputActions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA55E79-A70C-F460-49E9-31C7080B7F3D}|Assembly-CSharp.csproj|C:\\Users\\eden\\Documents\\Unity\\Fantums\\assets\\scripts\\systems\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA55E79-A70C-F460-49E9-31C7080B7F3D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA55E79-A70C-F460-49E9-31C7080B7F3D}|Assembly-CSharp.csproj|C:\\Users\\eden\\Documents\\Unity\\Fantums\\assets\\scripts\\systems\\playerhud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA55E79-A70C-F460-49E9-31C7080B7F3D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\playerhud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA55E79-A70C-F460-49E9-31C7080B7F3D}|Assembly-CSharp.csproj|C:\\Users\\eden\\Documents\\Unity\\Fantums\\assets\\scripts\\systems\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA55E79-A70C-F460-49E9-31C7080B7F3D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA55E79-A70C-F460-49E9-31C7080B7F3D}|Assembly-CSharp.csproj|C:\\Users\\eden\\Documents\\Unity\\Fantums\\assets\\scripts\\enemy\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA55E79-A70C-F460-49E9-31C7080B7F3D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA55E79-A70C-F460-49E9-31C7080B7F3D}|Assembly-CSharp.csproj|C:\\Users\\eden\\Documents\\Unity\\Fantums\\assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA55E79-A70C-F460-49E9-31C7080B7F3D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerInputActions.cs",
+              "DocumentMoniker": "C:\\Users\\eden\\Documents\\Unity\\Fantums\\Assets\\PlayerInputActions.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerInputActions.cs",
+              "ToolTip": "C:\\Users\\eden\\Documents\\Unity\\Fantums\\Assets\\PlayerInputActions.cs",
+              "RelativeToolTip": "Assets\\PlayerInputActions.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T07:12:13.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\eden\\Documents\\Unity\\Fantums\\Assets\\Scripts\\Systems\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\GameManager.cs",
+              "ToolTip": "C:\\Users\\eden\\Documents\\Unity\\Fantums\\Assets\\Scripts\\Systems\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:52:52.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerHUD.cs",
+              "DocumentMoniker": "C:\\Users\\eden\\Documents\\Unity\\Fantums\\Assets\\Scripts\\Systems\\PlayerHUD.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\PlayerHUD.cs",
+              "ToolTip": "C:\\Users\\eden\\Documents\\Unity\\Fantums\\Assets\\Scripts\\Systems\\PlayerHUD.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\PlayerHUD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:41:57.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\Users\\eden\\Documents\\Unity\\Fantums\\Assets\\Scripts\\Systems\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\CameraFollow.cs",
+              "ToolTip": "C:\\Users\\eden\\Documents\\Unity\\Fantums\\Assets\\Scripts\\Systems\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\CameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:40:13.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoorTransition.cs",
+              "DocumentMoniker": "C:\\Users\\eden\\Documents\\Unity\\Fantums\\Assets\\Scripts\\Environment\\DoorTransition.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\DoorTransition.cs",
+              "ToolTip": "C:\\Users\\eden\\Documents\\Unity\\Fantums\\Assets\\Scripts\\Environment\\DoorTransition.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\DoorTransition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:36:43.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyHitbox.cs",
+              "DocumentMoniker": "C:\\Users\\eden\\Documents\\Unity\\Fantums\\Assets\\Scripts\\Enemy\\EnemyHitbox.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyHitbox.cs",
+              "ToolTip": "C:\\Users\\eden\\Documents\\Unity\\Fantums\\Assets\\Scripts\\Enemy\\EnemyHitbox.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyHitbox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:31:46.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyPatrol.cs",
+              "DocumentMoniker": "C:\\Users\\eden\\Documents\\Unity\\Fantums\\Assets\\Scripts\\Enemy\\EnemyPatrol.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyPatrol.cs",
+              "ToolTip": "C:\\Users\\eden\\Documents\\Unity\\Fantums\\Assets\\Scripts\\Enemy\\EnemyPatrol.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyPatrol.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:28:40.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnemyHealth.cs",
+              "DocumentMoniker": "C:\\Users\\eden\\Documents\\Unity\\Fantums\\Assets\\Scripts\\Enemy\\EnemyHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyHealth.cs",
+              "ToolTip": "C:\\Users\\eden\\Documents\\Unity\\Fantums\\Assets\\Scripts\\Enemy\\EnemyHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:13:55.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "C:\\Users\\eden\\Documents\\Unity\\Fantums\\Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "ToolTip": "C:\\Users\\eden\\Documents\\Unity\\Fantums\\Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:04:45.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\eden\\Documents\\Unity\\Fantums\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\eden\\Documents\\Unity\\Fantums\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAA3wD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:00:10.099Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

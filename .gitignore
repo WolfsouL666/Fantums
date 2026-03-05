@@ -1,0 +1,88 @@
+# ========================
+# Unity Generated
+# ========================
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# ========================
+# Memory Profiler Snapshots
+# ========================
+/[Mm]emoryCaptures/
+
+# ========================
+# Recordings
+# ========================
+/[Rr]ecordings/
+
+# ========================
+# Asset Import Overrides
+# ========================
+/[Aa]sset[Ii]mport[Oo]verrides/
+
+# ========================
+# Auto-generated VS/Rider
+# ========================
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ========================
+# Unity3D Generated Meta
+# ========================
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# ========================
+# OS Junk
+# ========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ========================
+# Builds
+# ========================
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# ========================
+# Crashlytics
+# ========================
+crashlytics-build.properties
+
+# ========================
+# IDE
+# ========================
+.vs/
+.idea/
+*.swp
+*.swo
+*~
+
+# ========================
+# Plastic SCM
+# ========================
+*.ignore.conf
+*.private.0
+*.private
